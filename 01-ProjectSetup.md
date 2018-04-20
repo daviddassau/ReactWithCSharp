@@ -10,3 +10,4 @@
 
 ### Create View
 1. Open your `DefaultController` (or whatever you called it). Hover over `View()` and right-click, then click Add View.
+2. 
